@@ -1,0 +1,2 @@
+principal
+-DCATKIN_DEVEL_PREFIX=/home/erick/AutoNomoMini/devel -DCMAKE_INSTALL_PREFIX=/home/erick/AutoNomoMini/install -G Unix Makefiles

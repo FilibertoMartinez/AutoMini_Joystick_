@@ -1,0 +1,8 @@
+prefix=/home/erick/AutoNomoMini/devel
+
+Name: principal
+Description: Description of principal
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
